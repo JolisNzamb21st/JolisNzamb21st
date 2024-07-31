@@ -1,11 +1,11 @@
 ## Hi there 👋
-Graduated in Computer Science(Bachelor's degree) with a strong passion for data science and machine learning. I'm currently learning and building my skills through online courses (IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
+Graduated in Computer Science(Bachelor's degree) with a strong passion for data science and machine learning, I'm currently learning and building my skills through online courses (IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
 
 ## Skills:
 
-- Programming languages: Python, R, SQL
-- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn
-- Machine learning: Supervised and unsupervised learning, neural networks
+- Programming languages: Python, R, Java,PHP, and SQL 
+- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn,Jupyter notebook,and IBM Watson studio
+- Machine learning: Supervised and unsupervised learning
 
 ## Goals:
 
