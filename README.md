@@ -15,6 +15,7 @@ Graduated in Computer Science(Bachelor's degree) with a strong passion for data 
 ## Contact & Address
 
 Location: Mbarara
+
 Email address: nzambimanafranck@gmail.com
 
 <!--
