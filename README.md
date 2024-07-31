@@ -1,4 +1,5 @@
 ## Hi there 👋
+Graduated in Computer Science with a strong passion for data science and machine learning. I'm currently learning and building my skills through online courses (IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
 
 <!--
 **JolisNzamb21st/JolisNzamb21st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
