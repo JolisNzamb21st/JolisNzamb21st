@@ -12,7 +12,10 @@ Graduated in Computer Science(Bachelor's degree) with a strong passion for data 
 - Land an entry-level data science role or research opportunity
 - Continue learning and expanding my skill set in data science and machine learning and other technologies related to data science
 
+## Contact & Address
 
+Location: Mbarara
+Email address: nzambimanafranck@gmail.com
 
 <!--
 **JolisNzamb21st/JolisNzamb21st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
