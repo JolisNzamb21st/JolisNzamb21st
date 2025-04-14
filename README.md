@@ -1,16 +1,16 @@
 ## Hi there 👋
-Graduated in Computer Science(Bachelor's degree) with a strong passion for Web development, data science and machine learning, I'm currently learning and building my skills through online courses (IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
+Graduated in Computer Science(Bachelor's degree) with a strong passion for Web development, Artificial Intelligence, machine learning, and data science. I'm currently learning and building my skills through online courses (IBM front-end developer, IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
 
 ## Skills:
 
 - Programming languages: Python, R, Java, JavaScript, PHP, and SQL 
-- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn,Jupyter notebook,and IBM Watson studio
+- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, and IBM Watson studio
 - Machine learning: Supervised and unsupervised learning
 
 ## Goals:
 
-- Land an entry-level data science role, or research opportunity, or web developer role.
-- Continue learning and expanding my skill set in data science and machine learning and other technologies related to data science and web development
+- Land an entry-level web developer role, data science role, or research opportunity.
+- Continue learning and expanding my skill set in Web Development, Artificial Intelligence, data science and other technologies related to AI and web development
 
 ## Contact & Address
 
