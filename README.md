@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 Graduated in Computer Science(Bachelor's degree) with a strong passion for Web development, Artificial Intelligence, machine learning, and data science. I'm learning and building my skills through online courses (IBM front-end developer, IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
 
 ## Skills:
@@ -19,7 +19,7 @@ Location: Isingiro
 
 Email address: nzambimanafranck@gmail.com
 
-<!--
+
 **JolisNzamb21st/JolisNzamb21st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,3 +33,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there! I'm Ndayizamba Franck — a Computer Science graduate with a strong passion for Web Development, Artificial Intelligence, Machine Learning, and Data Science.
+
+💡 I’m continuously building my skills through hands-on personal projects and professional online training, including:
+- IBM Front-End Developer
+- IBM Data Science
+- Machine Learning courses
+
+🔧 **Technical Skills**  
+- Programming Languages: Python, R, Java, JavaScript, PHP, SQL  
+- Data Science Tools: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, IBM Watson Studio  
+- Machine Learning: Supervised & Unsupervised Learning  
+
+🎯 **Goals**
+- Land an entry-level role in Web Development, Data Science, or AI Research.
+- Continuously expand my knowledge in AI, Web Technologies, and Software Development.
+
+🌐 **Let’s Connect!**  
+[Portfolio](Your-Portfolio-Link) | [LinkedIn](Your-LinkedIn-Link)  
+
+📍 Location: Isingiro
