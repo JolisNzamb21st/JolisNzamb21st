@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there! I'm Ndayizamba Franck — a Computer Science graduate with a strong passion for Web Development, Artificial Intelligence, Machine Learning, and Data Science.
+👋 Hi there! I'm Nzambimana Jolis — a Computer Science graduate with a strong passion for Web Development, Artificial Intelligence, Machine Learning, and Data Science.
 
 💡 I’m continuously building my skills through hands-on personal projects and professional online training, including:
 - IBM Front-End Developer
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - Machine Learning: Supervised & Unsupervised Learning  
 
 🎯 **Goals**
-- Land an entry-level role in Web Development, Data Science, or AI Research.
+- Land an entry-level role in Web Development, Data Science, or research opportunity.
 - Continuously expand my knowledge in AI, Web Technologies, and Software Development.
 
 🌐 **Let’s Connect!**  
