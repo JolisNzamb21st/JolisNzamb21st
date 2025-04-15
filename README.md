@@ -1,5 +1,5 @@
 ## Hi there 👋
-Graduated in Computer Science(Bachelor's degree) with a strong passion for Web development, Artificial Intelligence, machine learning, and data science. I'm currently learning and building my skills through online courses (IBM front-end developer, IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
+Graduated in Computer Science(Bachelor's degree) with a strong passion for Web development, Artificial Intelligence, machine learning, and data science. I'm learning and building my skills through online courses (IBM front-end developer, IBM Data Science, Machine Learning) and personal projects. I'm excited to connect with like-minded individuals and explore opportunities in the field.
 
 ## Skills:
 
@@ -14,7 +14,7 @@ Graduated in Computer Science(Bachelor's degree) with a strong passion for Web d
 
 ## Contact & Address
 
-Location: Mbarara
+Location: Isingiro
 
 Email address: nzambimanafranck@gmail.com
 
