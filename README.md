@@ -13,8 +13,8 @@ Graduated in Computer Science(Bachelor's degree) with a strong passion for Web d
 - Continue learning and expanding my skill set in Web Development, Artificial Intelligence, data science and other technologies related to AI and web development
 
 ## Let's Connect:
-### Portfolio:
-### Contact & Address:
+#### Portfolio:
+#### Contact & Address:
 Location: Isingiro
 
 Email address: nzambimanafranck@gmail.com
