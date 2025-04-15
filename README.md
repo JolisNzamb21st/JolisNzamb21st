@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - Land an entry-level role in Web Development, Data Science, or research opportunity.
 - Continuously expand my knowledge in AI, Web Technologies, and Software Development.
 
-🌐 **Let’s Connect!**  
+##🌐 **Let’s Connect!**  
 [Portfolio](Your-Portfolio-Link) | [LinkedIn](Your-LinkedIn-Link)  
 
 📍 Location: Isingiro
