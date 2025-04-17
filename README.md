@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 - Continuously expand my knowledge in AI, Web Technologies, and Software Development.
 
 🌐**Let’s Connect!**
-[Portfolio](Your-Portfolio-Link) | [LinkedIn](Your-LinkedIn-Link)  
+[Portfolio](https://jolisnzamb21st.github.io/My-portifolio/) | [GitHub](Your-LinkedIn-Link)  
 
 📍 Location: Isingiro
