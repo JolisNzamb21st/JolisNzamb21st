@@ -55,28 +55,40 @@ Here are some ideas to get you started:
 🌐**Let’s Connect!**
 [Portfolio](https://jolisnzamb21st.github.io/My-portifolio/) | [WhatsApp](https://wa.me/256789172498)  
 
-📍 Location: Isingiro
+📍 Location: Isingiro -->
 
-===============================================
 
-<!-- Optional banner (replace with your own image link) -->
-<p align="center">
-  <img src="https://github.com/JolisNzamb21st/JolisNzamb21st/assets/banner.png" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi there, I’m Kochi!</h1>
 
 <p align="center">
   🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
-  💻 Continuously growing through hands-on projects and professional training, including:<br>
+  💻 Continuously learning through hands-on projects and professional training, including:<br>
   🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
 </p>
 
 ---
 
 ### 🧠 About Me
-I love combining creativity and logic to build accessible, responsive, and human-centered web experiences.  
-Currently, I’m focusing on mastering **JavaScript, React, and Django**, while building community-based tech initiatives that empower learners.
+I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong ambition to **leverage technology, creativity, and available resources** to create meaningful **community impact**.  
+I love combining **creativity and logic** to build **accessible, responsive, and human-centred web experiences**.  
+
+Currently, I’m deepening my expertise in **JavaScript, React, and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
+
+---
+
+### 🏅 Certifications
+- 🎓 [IBM Front-End Developer](https://www.credly.com/badges/YOUR-FRONTEND-BADGE-ID)  
+- 📊 [IBM Data Science](https://www.credly.com/badges/YOUR-DATA-SCIENCE-BADGE-ID)  
+- 🤖 [Machine Learning Foundations](https://www.coursera.org/account/accomplishments/certificate/YOUR-ML-CERTIFICATE-ID)
+
+---
+
+### 🚀 Featured Projects
+- 🧭 **SkillPilot** — A smart learning tracker that helps learners visualise their progress  
+- 💡 **Dev Learning Hub** — A community initiative empowering coders using smartphones and laptops  
+- 🌱 **MyLearningJourney** — A personal growth tracker for continuous learning and reflection  
 
 ---
 
@@ -118,140 +130,6 @@ Currently, I’m focusing on mastering **JavaScript, React, and Django**, while 
 </p>
 
 ---
-
-### 💼 Current Projects
-- 🧭 **SkillPilot** – A learning companion for community-based coding hubs  
-- 🧩 **MyLearningJourney** – A course progress tracker app  
-- 🌐 **Portfolio Website** – Showcasing my projects and developer growth  
-
----
-
-### 🚀 Learning Goals
-- Master advanced **JavaScript** and **React**  
-- Build full-stack applications with **Django** and **Node.js**  
-- Contribute to **open-source projects** that empower learning communities  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JolisNzamb21st&theme=tokyonight"/>
-</p>
-
----
-
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://github.com/JolisNzamb21st"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <em>“Exchange money with integrity, and share knowledge with purpose.” — Kochi 💡</em>
-</p>
-==========================
-
-<h1 align="center">👋 Hi there, I’m Kochi!</h1>
-
-<p align="center">
-  🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
-  💻 Continuously growing through hands-on projects and professional training, including:<br>
-  🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
-</p>
-
----
-
-### 🧠 About Me
-I’m a Computer Science graduate who believes in using technology and creativity as tools for positive community transformation. 
-I love crafting **accessible, responsive, and human-centred web experiences**, and I’m currently deepening my expertise in **JavaScript, React, and Django** while building **community-based tech initiatives** that empower learners and foster inclusion.
-
----
-
-### 🚀 Current Projects
-- 🧭 **SkillPilot** – a learning tracker app to help learners visualize their progress  
-- 💡 **Dev Learning Hub** – a community initiative empowering coders using smartphones and laptops  
-- 🌱 **MyLearningJourney** – a personal growth tracker for online learning progress  
-
----
-
-### 🔧 Tech Stack
-**Front-end:** HTML · CSS · Bootstrap · JavaScript · React · WordPress  
-**Back-end:** Django (in progress)  
-**Tools:** Git · GitHub · VS Code · Figma · Canva  
-**Learning Focus:** Full-Stack Web Development · AI & Data Science Foundations
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JolisNzamb21st&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-<p align="center">✨ Always learning. Always building. Always sharing. ✨</p>
--- >
-<h1 align="center">👋 Hi there, I’m Kochi!</h1>
-
-<p align="center">
-  🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
-  💻 Continuously learning through hands-on projects and professional training, including:<br>
-  🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
-</p>
-
----
-
-### 🧠 About Me
-I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong ambition to **leverage technology, creativity, and available resources** to create meaningful **community impact**.  
-I love combining **creativity and logic** to build **accessible, responsive, and human-centered web experiences**.  
-
-Currently, I’m deepening my expertise in **JavaScript, React, and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
-
----
-
-### 🏅 Certifications
-- 🎓 [IBM Front-End Developer](https://www.credly.com/badges/YOUR-FRONTEND-BADGE-ID)  
-- 📊 [IBM Data Science](https://www.credly.com/badges/YOUR-DATA-SCIENCE-BADGE-ID)  
-- 🤖 [Machine Learning Foundations](https://www.coursera.org/account/accomplishments/certificate/YOUR-ML-CERTIFICATE-ID)
-
-*(Add your actual badge or certificate URLs so recruiters can verify your credentials directly.)*
-
----
-
-### 🚀 Featured Projects
-- 🧭 **SkillPilot** — A smart learning tracker that helps learners visualize their progress  
-- 💡 **Dev Learning Hub** — A community initiative empowering coders using smartphones and laptops  
-- 🌱 **MyLearningJourney** — A personal growth tracker for continuous learning and reflection  
-
----
-
-### 💻 Tech Stack
-**Front-end:** HTML · CSS · Bootstrap · JavaScript · React · WordPress  
-**Back-end:** Django (in progress)  
-**Tools:** Git · GitHub · VS Code · Figma · Canva  
-**Focus Areas:** Full-Stack Web Development · AI & Data Science Foundations
 
 <p align="center">
   <!-- Visual tech badges (you can uncomment if you want them visible) -->
