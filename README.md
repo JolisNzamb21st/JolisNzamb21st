@@ -4,7 +4,7 @@ Graduated in Computer Science(Bachelor's degree) with a strong passion for Web d
 ## Skills:
 
 - Programming languages: Python, R, Java, JavaScript, PHP, and SQL 
-- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, and IBM Watson studio
+- Data science tools: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, and IBM Watson Studio
 - Machine learning: Supervised and unsupervised learning
 
 ## Goals:
@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">👋 Hi there, I’m Nzambimana Jolis!</h1>
+<h1 align="center"> Hi there, I’m Nzambimana Jolis!</h1>
 
 <p align="center">
-  🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
-  💻 Continuously learning through hands-on projects and professional training, including:<br>
-  🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
+   Passionate about building web solutions that connect people, communities, and ideas.<br>
+   Continuously learning through hands-on projects and professional training, including:<br>
+   IBM Front-End Developer ·  IBM Data Science ·  Machine Learning Courses
 </p>
 
 ---
@@ -85,10 +85,10 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 
 ---
 
-### 🚀 Featured Projects
-- 🧭 **SkillPilot** — A smart learning tracker that helps learners visualise their progress  
-- 💡 **Dev Learning Hub** — A community initiative empowering coders using smartphones and laptops  
-- 🌱 **MyLearningJourney** — A personal growth tracker for continuous learning and reflection  
+###  Featured Projects
+-  **SkillPilot** — A smart learning tracker that helps learners visualise their progress  
+-  **Dev Learning Hub** — A community initiative empowering coders using smartphones and laptops  
+-  **MyLearningJourney** — A personal growth tracker for continuous learning and reflection  
 
 ---
 
