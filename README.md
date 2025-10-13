@@ -32,16 +32,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 👋 Hi there! I'm Nzambimana Jolis — a Computer Science graduate with a strong passion for Web Development, Artificial Intelligence, Machine Learning, and Data Science.
 
-💡 I’m continuously building my skills through hands-on personal projects and professional online training, including:
+💡 I’m continuously building my skills through hands-on personal projects and professional online training, including but not limited to:
 - IBM Front-End Developer
 - IBM Data Science
 - Machine Learning courses
 
-🔧 **Technical Skills**  
-- Programming Languages: Python, R, Java, JavaScript, PHP, SQL  
+🔧 **Tech Stack**  
+- Front-end:
+  HTML · CSS · Bootstrap · JavaScript · React  PHP
+- Back-end:
+  Python · Django
 - Data Science Tools: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, IBM Watson Studio  
 - Machine Learning: Supervised & Unsupervised Learning  
 
@@ -53,3 +56,102 @@ Here are some ideas to get you started:
 [Portfolio](https://jolisnzamb21st.github.io/My-portifolio/) | [WhatsApp](https://wa.me/256789172498)  
 
 📍 Location: Isingiro
+
+===============================================
+-->
+<!-- Optional banner (replace with your own image link) -->
+<p align="center">
+  <img src="https://github.com/JolisNzamb21st/JolisNzamb21st/assets/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi there, I’m Kochi!</h1>
+
+<p align="center">
+  🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
+  💻 Continuously growing through hands-on projects and professional training, including:<br>
+  🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
+</p>
+
+---
+
+### 🧠 About Me
+I love combining creativity and logic to build accessible, responsive, and human-centered web experiences.  
+Currently, I’m focusing on mastering **JavaScript, React, and Django**, while building community-based tech initiatives that empower learners.
+
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  
+**Front-end**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+**Back-end**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+**CMS & Platforms**  
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+**Database**  
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Design & Tools**  
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+**Currently Learning**  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 💼 Current Projects
+- 🧭 **SkillPilot** – A learning companion for community-based coding hubs  
+- 🧩 **MyLearningJourney** – A course progress tracker app  
+- 🌐 **Portfolio Website** – Showcasing my projects and developer growth  
+
+---
+
+### 🚀 Learning Goals
+- Master advanced **JavaScript** and **React**  
+- Build full-stack applications with **Django** and **Node.js**  
+- Contribute to **open-source projects** that empower learning communities  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JolisNzamb21st&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/JolisNzamb21st"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Exchange money with integrity, and share knowledge with purpose.” — Kochi 💡</em>
+</p>
+
