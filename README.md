@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 📍 Location: Isingiro
 
 ===============================================
--->
+
 <!-- Optional banner (replace with your own image link) -->
 <p align="center">
   <img src="https://github.com/JolisNzamb21st/JolisNzamb21st/assets/banner.png" alt="Banner" width="100%" />
@@ -154,4 +154,62 @@ Currently, I’m focusing on mastering **JavaScript, React, and Django**, while 
 <p align="center">
   <em>“Exchange money with integrity, and share knowledge with purpose.” — Kochi 💡</em>
 </p>
+==========================
+-->
+<h1 align="center">👋 Hi there, I’m Kochi!</h1>
+
+<p align="center">
+  🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
+  💻 Continuously growing through hands-on projects and professional training, including:<br>
+  🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
+</p>
+
+---
+
+### 🧠 About Me
+I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong drive to merge technology, creativity, and community impact.  
+I love crafting **accessible, responsive, and human-centered web experiences**, and I’m currently deepening my expertise in **JavaScript, React, and Django** while building **community-based tech initiatives** that empower learners and foster inclusion.
+
+---
+
+### 🚀 Current Projects
+- 🧭 **SkillPilot** – a learning tracker app to help learners visualize their progress  
+- 💡 **Dev Learning Hub** – a community initiative empowering coders using smartphones and laptops  
+- 🌱 **MyLearningJourney** – a personal growth tracker for online learning progress  
+
+---
+
+### 🔧 Tech Stack
+**Front-end:** HTML · CSS · Bootstrap · JavaScript · React · WordPress  
+**Back-end:** Django (in progress)  
+**Tools:** Git · GitHub · VS Code · Figma · Canva  
+**Learning Focus:** Full-Stack Web Development · AI & Data Science Foundations
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JolisNzamb21st&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Always learning. Always building. Always sharing. ✨</p>
 
