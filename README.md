@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">👋 Hi there, I’m Kochi!</h1>
+<h1 align="center">👋 Hi there, I’m Nzambimana Jolis!</h1>
 
 <p align="center">
   🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
