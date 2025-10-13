@@ -212,7 +212,82 @@ I love crafting **accessible, responsive, and human-centred web experiences**, a
 ---
 
 <p align="center">✨ Always learning. Always building. Always sharing. ✨</p>
+-- >
+<h1 align="center">👋 Hi there, I’m Kochi!</h1>
 
+<p align="center">
+  🌍 Passionate about building web solutions that connect people, communities, and ideas.<br>
+  💻 Continuously learning through hands-on projects and professional training, including:<br>
+  🎨 IBM Front-End Developer · 📊 IBM Data Science · 🤖 Machine Learning Courses
+</p>
 
+---
 
--->
+### 🧠 About Me
+I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong ambition to **leverage technology, creativity, and available resources** to create meaningful **community impact**.  
+I love combining **creativity and logic** to build **accessible, responsive, and human-centered web experiences**.  
+
+Currently, I’m deepening my expertise in **JavaScript, React, and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
+
+---
+
+### 🏅 Certifications
+- 🎓 [IBM Front-End Developer](https://www.credly.com/badges/YOUR-FRONTEND-BADGE-ID)  
+- 📊 [IBM Data Science](https://www.credly.com/badges/YOUR-DATA-SCIENCE-BADGE-ID)  
+- 🤖 [Machine Learning Foundations](https://www.coursera.org/account/accomplishments/certificate/YOUR-ML-CERTIFICATE-ID)
+
+*(Add your actual badge or certificate URLs so recruiters can verify your credentials directly.)*
+
+---
+
+### 🚀 Featured Projects
+- 🧭 **SkillPilot** — A smart learning tracker that helps learners visualize their progress  
+- 💡 **Dev Learning Hub** — A community initiative empowering coders using smartphones and laptops  
+- 🌱 **MyLearningJourney** — A personal growth tracker for continuous learning and reflection  
+
+---
+
+### 💻 Tech Stack
+**Front-end:** HTML · CSS · Bootstrap · JavaScript · React · WordPress  
+**Back-end:** Django (in progress)  
+**Tools:** Git · GitHub · VS Code · Figma · Canva  
+**Focus Areas:** Full-Stack Web Development · AI & Data Science Foundations
+
+<p align="center">
+  <!-- Visual tech badges (you can uncomment if you want them visible) -->
+  <!--
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  -->
+</p>
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JolisNzamb21st&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *Always learning. Always building. Always sharing.* ✨
+</p>
