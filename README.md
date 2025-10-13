@@ -155,7 +155,7 @@ Currently, I’m focusing on mastering **JavaScript, React, and Django**, while 
   <em>“Exchange money with integrity, and share knowledge with purpose.” — Kochi 💡</em>
 </p>
 ==========================
--->
+
 <h1 align="center">👋 Hi there, I’m Kochi!</h1>
 
 <p align="center">
@@ -167,8 +167,8 @@ Currently, I’m focusing on mastering **JavaScript, React, and Django**, while 
 ---
 
 ### 🧠 About Me
-I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong drive to merge technology, creativity, and community impact.  
-I love crafting **accessible, responsive, and human-centered web experiences**, and I’m currently deepening my expertise in **JavaScript, React, and Django** while building **community-based tech initiatives** that empower learners and foster inclusion.
+I’m a Computer Science graduate who believes in using technology and creativity as tools for positive community transformation. 
+I love crafting **accessible, responsive, and human-centred web experiences**, and I’m currently deepening my expertise in **JavaScript, React, and Django** while building **community-based tech initiatives** that empower learners and foster inclusion.
 
 ---
 
@@ -213,3 +213,6 @@ I love crafting **accessible, responsive, and human-centered web experiences**, 
 
 <p align="center">✨ Always learning. Always building. Always sharing. ✨</p>
 
+
+
+-->
