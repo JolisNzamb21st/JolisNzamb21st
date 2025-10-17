@@ -76,7 +76,7 @@ I love combining **creativity and logic** to build **accessible, responsive, and
 
 Currently, I’m deepening my expertise in **JavaScript, React, and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
 
-**Fun fact:** I'm also a keen polyglot: learning German, Swahili, and advanced English. 🧠🗣️🇩🇪🇰🇪
+**🎧 Fun fact:** When I’m not coding, I’m probably practicing German or Swahili and advancing my English level as well. — I’m a proud polyglot in progress! 🧠🗣️🇩🇪🇰🇪
 
 ---
 
