@@ -81,8 +81,8 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 ---
 
 ### 🏅 Certifications
-- 🎓 [IBM Front-End Developer](https://www.credly.com/badges/YOUR-FRONTEND-BADGE-ID)  
-- 📊 [IBM Data Science](https://www.credly.com/badges/YOUR-DATA-SCIENCE-BADGE-ID)  
+- 🎓 [IBM Front-End Developer](https://www.credly.com/badges/3ed6f1cc-be5e-4e93-a852-103a52490789)  
+- 📊 [IBM Data Science](https://www.credly.com/badges/3ed6f1cc-be5e-4e93-a852-103a52490789)  
 - 🤖 [Machine Learning Foundations](https://www.coursera.org/account/accomplishments/certificate/YOUR-ML-CERTIFICATE-ID)
 
 ---
