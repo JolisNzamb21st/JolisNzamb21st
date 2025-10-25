@@ -153,7 +153,7 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
   <a href="https://www.linkedin.com/in/jolis-nzambimana-849148152/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:#" target="_blank">
+  <a href="mailto:nzambimanafranck@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="#.vercel.app" target="_blank">
