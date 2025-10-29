@@ -143,7 +143,7 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JolisNzamb21st&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
