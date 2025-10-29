@@ -95,7 +95,7 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Tech Stack & Tools
 
 <p align="center">
   
