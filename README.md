@@ -164,5 +164,5 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 ---
 
 <p align="center">
-   > **Always learning. Always building. Always sharing.**
+   > Always learning. Always building. Always sharing.
 </p>
