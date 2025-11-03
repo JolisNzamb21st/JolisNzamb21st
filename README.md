@@ -164,7 +164,7 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 
 ---
 
-<div style="background-color:#ff0000; padding:10px; border-radius:8px; text-align:center;">
-  <em>| Always learning. Always building. Always sharing.</em>
+<div style="background-color:#e0e0e0; padding:10px; border-radius:8px; text-align:center;">
+  <em>💡 Always learning. Always building. Always sharing.</em>
 </div>
 
