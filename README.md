@@ -170,8 +170,6 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 
 ---
 
----
-
 <table align="center" width="100%" style="background-color:#f6f6f6;">
 <tr><td align="center">
 
