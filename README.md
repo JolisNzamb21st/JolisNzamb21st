@@ -164,7 +164,7 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 
 ---
 
-<div style="background-color:#f6f6f6; padding:10px; border-radius:8px; text-align:center;">
+<div style="background-color:#f4f4f4; padding:10px; border-radius:8px; text-align:center;">
   <em>| Always learning. Always building. Always sharing.</em>
 </div>
 
