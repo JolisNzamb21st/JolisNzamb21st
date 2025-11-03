@@ -168,3 +168,16 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
   <em>💡 Always learning. Always building. Always sharing.</em>
 </div>
 
+---
+
+---
+
+<table align="center" width="100%" style="background-color:#f6f6f6;">
+<tr><td align="center">
+
+💡 **Always learning. Always building. Always sharing.**
+
+</td></tr>
+</table>
+
+
