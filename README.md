@@ -178,4 +178,7 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 </td></tr>
 </table>
 
+---
+
+> Always learning. Always building. Always sharing.
 
