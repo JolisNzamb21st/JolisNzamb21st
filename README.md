@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <p align="center">
    Passionate about building web solutions that connect people, communities, and ideas.<br>
    Continuously learning through hands-on projects and professional training, including:<br>
-   IBM Front-End Developer ·  IBM Data Science ·  Machine Learning Courses
+   IBM courses with hands-on projects ·  NetworkSkills guided projects ·  Machine Learning Courses .And more...
 </p>
 
 ---
@@ -128,18 +128,16 @@ Currently, I’m deepening my expertise in **JavaScript, React, and Django**, wh
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <!-- Visual tech badges (you can uncomment if you want them visible) -->
   <!--
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  -->
-</p>
-
----
-
+ 
+</p> 
+----->
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JolisNzamb21st&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
