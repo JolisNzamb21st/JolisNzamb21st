@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong ambition to **utilize technology, creativity, and available resources** to create meaningful **community impact**.  
 I love combining **creativity and logic** to build **accessible, responsive, and human-centred web experiences**.  
 
-Currently, I’m deepening my expertise in **JavaScript, React, and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
+Currently, I’m deepening my expertise in **JavaScript, React,Cloud Native & DevOps concepts and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
 
 **🎧 Fun fact:** When I’m not coding, I’m probably practicing German or Swahili and advancing my English level as well. — I’m a proud polyglot in progress! 🧠🗣️🇩🇪🇰🇪
 
