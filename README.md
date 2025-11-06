@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧠 About Me
-I’m a **Computer Science graduate (Bachelor’s Degree)** with a strong ambition to **utilize technology, creativity, and available resources** to create meaningful **community impact**.  
+I’m a **Computer Science 2024 graduate (Bachelor’s Degree)** with a strong ambition to **utilize technology, creativity, and available resources** to create meaningful **community impact**.  
 I love combining **creativity and logic** to build **accessible, responsive, and human-centred web experiences**.  
 
 Currently, I’m deepening my expertise in **JavaScript, React,Cloud Native & DevOps concepts and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
