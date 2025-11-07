@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I’m Nzambimana Jolis!</h1>
 
 <p align="center">
-   Passionate about building web solutions that connect people, communities, and ideas.<br>
+   Passionate about building web solutions that connect people, communities, and ideas for a better future.<br>
    Continuously learning through hands-on projects and professional training, including:<br>
-   IBM courses with hands-on projects ·  NetworkSkills guided projects ·  Machine Learning Courses .And more...
+   IBM courses with hands-on projects ·  NetworkSkills guided projects ·  Machine Learning Courses.And more...
 </p>
 
 ---
