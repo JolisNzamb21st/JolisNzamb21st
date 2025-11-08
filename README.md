@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 <p align="center">
    Passionate about building web solutions that connect people, communities, and ideas for a better future.<br>
    Continuously learning through hands-on projects and professional training, including:<br>
-   IBM courses with hands-on projects ·  NetworkSkills guided projects ·  Machine Learning Courses.And more...
+   IBM courses with hands-on projects · SkillsNetwork guided projects ·  Machine Learning Courses.And more...
 </p>
 
 ---
 
 ### 🧠 About Me
-I’m a 2024 **Computer Science  graduate (Bachelor’s Degree)** with a strong ambition to **utilize technology, creativity, and available resources** to create meaningful **community impact**.  
+I’m a 2024 **Computer Science graduate (Bachelor’s Degree)** with a strong ambition to **utilise technology, creativity, and available resources** to create meaningful **community impact**.  
 I love combining **creativity and logic** to build **accessible, responsive, and human-centred web experiences**.  
 
 Currently, I’m deepening my expertise in **JavaScript, React,Cloud Native & DevOps concepts and Django**, while building **community-based tech initiatives** that empower learners and bridge the digital gap.
