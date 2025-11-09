@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <p align="center">
    Passionate about building web solutions that connect people, communities, and ideas for a better future.<br>
    Continuously learning through hands-on projects and professional training, including:<br>
-   IBM courses with hands-on projects · SkillsNetwork guided projects ·  Machine Learning Courses.And more...
+   IBM courses with hands-on projects · Skills Network guided projects ·  Machine Learning Courses.And more...
 </p>
 
 ---
